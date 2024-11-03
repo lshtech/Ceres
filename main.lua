@@ -166,8 +166,8 @@ Ceres.ITEMS = {
     },
     consumables = {
         'spectrals',
-        --'planet_ex',
-        --'planet_gx',
+        'planet_ex',
+        'planet_gx',
         'vouchers',
         'boosters',
         --'reversed_tarots',
